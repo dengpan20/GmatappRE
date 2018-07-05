@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_pre_course"
+        android:icon="@drawable/ic_book_open_page_variant"
+        android:title="@string/nav_title_pre_test" />
+
+    <item
+        android:id="@+id/navigation_test"
+        android:icon="@drawable/ic_lead_pencil"
+        android:title="@string/nav_title_make_test" />
+
+    <item
+        android:id="@+id/navigation_community"
+        android:icon="@drawable/ic_view_module"
+        android:title="@string/nav_title_ready_community" />
+    <item
+        android:id="@+id/navigation_small_course"
+        android:icon="@drawable/ic_tv_television"
+        android:title="@string/nav_title_small_course" />
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_account"
+        android:title="@string/nav_title_person_center" />
+</menu>
